@@ -1,1 +1,1 @@
-python course
+python course @ digipodium
