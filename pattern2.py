@@ -6,7 +6,7 @@ def polygon(side):
         fd(100)
         lt(360/side)
 # tesing the function
-for i in range(6):
+for _ in range(6):
     polygon(10)
     polygon(6)
     polygon(4)
